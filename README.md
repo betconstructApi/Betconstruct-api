@@ -22,3 +22,9 @@ Geniş ara yüz seçenekleri ile panel üzerindeki işlemlerinizi hızlı ve kol
 
 ## Sonuç
 Betconstruct API, işinizi daha verimli, etkili ve kullanıcı dostu hale getirecek çözümler sunuyor. Sizin için neler yapabileceğini keşfetmek istiyorsanız, butonlar üzerinden ilgili sayfalara gidin veya bizimle iletişime geçin.
+
+
+[![Domain Kontrol Botu](https://img.shields.io/badge/-Domain%20Kontrol%20Botu-purple)](https://betxsolutions.com/)
+[![Nakit Eklenince Bildirim Sistemi](https://img.shields.io/badge/-Nakit%20Eklenince%20Bildirim%20Sistemi-green)](https://betxsolutions.com/)
+[![NVİ T.C Doğrulama Sistemi](https://img.shields.io/badge/-NVİ%20T.C%20Doğrulama%20Sistemi-yellow)](https://betxsolutions.com/)
+[![Ve Daha Fazlası](https://img.shields.io/badge/-Ve%20Daha%20Fazlası-gray)](https://betxsolutions.com/)

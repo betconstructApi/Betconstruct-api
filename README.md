@@ -9,7 +9,7 @@
 
 ## Giriş
 Betconstruct API, bahis ve casino işletmeleri için özel olarak tasarlanmış, son derece özelleştirilebilir bir platform sunmaktadır. Otomatik bonuslar, raporlamalar ve çok daha fazlasıyla, işlemlerinizi daha verimli hale getirebileceğinizden emin olabilirsiniz.
-![Türkiye Bayrağı](https://link-to-turkish-flag-image.png)
+
 
 ## Özellikler
 

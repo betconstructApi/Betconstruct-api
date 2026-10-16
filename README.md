@@ -58,3 +58,17 @@ Betconstruct API, Betconstruct otomatik bonus, Betconstruct finans botu, anında
 Betconstruct API; otomatik bonus, finans botu, gün sonu muhasebe, raporlama ve tasarımcı desteğiyle işinizi daha verimli hale getirir. Detaylı bilgi ve teklif için bizimle iletişime geçin:
 
 **İletişim:** [https://t.ly/betconstructApi](https://t.ly/betconstructApi)
+
+## Grafik Personeli Desteği
+
+Büyük ölçekli firmalar ve yoğun tasarım ihtiyacı olan işletmeler için grafik personeli desteği sağlıyoruz. Logo, kurumsal kimlik, banner, kampanya ve promosyon görselleri, sosyal medya tasarımları, landing sayfaları ve panel arayüzleri dahil tüm grafik süreçlerinizi sıfırdan ele alıyor; fikir aşamasından teslimata kadar uçtan uca destek veriyoruz.
+
+Çalışmalarımızı incelemek isterseniz tasarım örneklerimizi sizinle paylaşabiliriz. Örnekleri talep etmek ve ihtiyaçlarınızı konuşmak için bize mesaj atmanız yeterli.
+
+[![Grafik Personeli Desteği](https://img.shields.io/badge/-Grafik%20Personeli%20Desteği-ff69b4)](https://t.ly/betconstructApi)
+[![Sıfırdan Grafik Süreçleri](https://img.shields.io/badge/-Sıfırdan%20Grafik%20Süreçleri-blueviolet)](https://t.ly/betconstructApi)
+[![Büyük Ölçekli Firmalara Özel](https://img.shields.io/badge/-Büyük%20Ölçekli%20Firmalara%20Özel-orange)](https://t.ly/betconstructApi)
+[![Tasarım Örneklerini İsteyin](https://img.shields.io/badge/-Tasarım%20Örneklerini%20İsteyin-success)](https://t.ly/betconstructApi)
+[![Bize Mesaj Atın](https://img.shields.io/badge/-Bize%20Mesaj%20Atın-green)](https://t.ly/betconstructApi)
+
+**Tasarım örnekleri ve grafik desteği için:** [https://t.ly/betconstructApi](https://t.ly/betconstructApi)
